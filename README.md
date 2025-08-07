@@ -56,7 +56,7 @@ PayTroix is configured to work exclusively with the Morph Holesky network:
 
 ## Stable Tokens
 
-The following stable tokens are available on the network for testing:
+The following stable token is available on the network for testing:
 
 - USDT Contract Address: `0x562368917B2D3337d4613749cA989dd7A62eb1c8`
 
